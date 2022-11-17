@@ -3,5 +3,5 @@ public class {
     int b=6
     int c
     c = a + 5
-    printf(c)
+    system.out.println(c)
 }
